@@ -40,6 +40,6 @@ a production server on.
 
 # License
 
-Copyright (c) 2015 Fernando Borretti
+Copyright (c) 2015 Fernando Borretti, 2025 - present lisp-maintainers org.
 
 Licensed under the MIT License.
